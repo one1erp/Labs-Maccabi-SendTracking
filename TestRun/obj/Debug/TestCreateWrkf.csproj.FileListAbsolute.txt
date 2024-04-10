@@ -1,0 +1,15 @@
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\TestCreateWrkf.csprojResolveAssemblyReference.cache
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\TestCreateWrkf.Properties.Resources.resources
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\TestCreateWrkf.csproj.GenerateResource.Cache
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\bin\Debug\TestCreateWrkf.exe.config
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\bin\Debug\TestCreateWrkf.exe
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\bin\Debug\TestCreateWrkf.pdb
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\bin\Debug\CreateWorkf.dll
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\bin\Debug\CreateWorkf.pdb
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\Interop.LSExtensionControlLib.dll
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\Interop.LSExtensionWindowLib.dll
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\Interop.LSSERVICEPROVIDERLib.dll
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\TestCreateWrkf.csproj.ResolveComReference.cache
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\TestCreateWrkf.exe
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\obj\Debug\TestCreateWrkf.pdb
+C:\work\NesherProj\CreateWorkf\TestCreateWrkf\bin\Debug\Oracle.ManagedDataAccess.dll
